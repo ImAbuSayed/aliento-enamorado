@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Me acerco lento, baby, siento tu calor
+> La noche es nuestra y ya perdimos el control
+> Tus labios piden que te entregue el corazón
+> Bailando suave en esta oscura habitación
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
